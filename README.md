@@ -41,14 +41,7 @@ Chuyển thành Bag of Words
 Đưa vào mô hình Neural Network
 Dự đoán intent
 Trả về phản hồi phù hợp
-🏗️ Kiến trúc hệ thống
-📦 Chatbot Project
- ┣ 📜 train_model.py       # Huấn luyện mô hình
- ┣ 📜 app.py               # Giao diện Dash
- ┣ 📜 intents.json         # Dữ liệu huấn luyện
- ┣ 📜 words.pkl            # Từ vựng
- ┣ 📜 classes.pkl          # Nhãn
- ┗ 📜 chatbot_model.h5     # Model đã train
+
 
 🛠️ Công nghệ sử dụng
 Công nghệ	Mô tả
